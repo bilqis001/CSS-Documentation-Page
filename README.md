@@ -1,0 +1,1 @@
+This is a Freecodecamp project on CSS technical documentation page. All the documentation in this project is taken from MDN (https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
